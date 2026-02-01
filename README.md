@@ -91,7 +91,11 @@ HLT
 
 ## And of 8 bit numbers ALP
 ```
-
+mov AX,5782H
+mov BX,23ABH
+AND AX,BX
+MOV [4001H],AX
+HLT
 ```
 ## Output
 
@@ -99,7 +103,11 @@ HLT
 
 ## OR of 8 bit numbers ALP
 ```
-
+mov AX,5782H
+mov BX,23ABH
+OR AX,BX
+MOV [4003H],AX
+HLT
 ```
 ## Output
 
@@ -107,7 +115,10 @@ HLT
 
 ## NOT of 8 bit number ALP
 ```
-
+mov AX,5782H
+NOT AX
+MOV [4005H],AX
+HLT
 ```
 ## Output
 
@@ -115,7 +126,10 @@ HLT
 
 ## XOR of 8 bit number ALP
 ```
-
+MOV AX,5782H
+MOV BX,23ABH
+XOR AX,BX
+HLT
 ```
 ## Output
 
