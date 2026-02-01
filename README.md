@@ -49,7 +49,7 @@ HLT
 ```
 ## Output  
 
-![IMG]()
+![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/add.png)
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -61,7 +61,7 @@ HLT
 ```
 ## Output  
 
- ![IMG]()
+ ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/sub.png)
  
 ## Multiplication alp 
 ```
@@ -74,7 +74,7 @@ HLT
 ```
 ## Output  
 
- ![IMG]()
+ ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/mul.png)
  
 ## Division alp 
 ```
@@ -87,6 +87,6 @@ HLT
 ````
 ## Output  
 
- ![IMG]()
+ ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/DIV.png)
  
 ## Result :
