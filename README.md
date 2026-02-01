@@ -88,5 +88,38 @@ HLT
 ## Output  
 
  ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/DIV.png)
- 
+
+## And of 8 bit numbers ALP
+```
+
+```
+## Output
+
+![img]()
+
+## OR of 8 bit numbers ALP
+```
+
+```
+## Output
+
+![img]()
+
+## NOT of 8 bit number ALP
+```
+
+```
+## Output
+
+![img]()
+
+## XOR of 8 bit number ALP
+```
+
+```
+## Output
+
+![img]()
+
 ## Result :
+The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
