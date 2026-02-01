@@ -99,7 +99,7 @@ HLT
 ```
 ## Output
 
-![img]()
+![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/and.png)
 
 ## OR of 8 bit numbers ALP
 ```
@@ -111,7 +111,7 @@ HLT
 ```
 ## Output
 
-![img]()
+![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/or.png)
 
 ## NOT of 8 bit number ALP
 ```
@@ -122,7 +122,7 @@ HLT
 ```
 ## Output
 
-![img]()
+![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/not.png)
 
 ## XOR of 8 bit number ALP
 ```
