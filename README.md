@@ -133,7 +133,7 @@ HLT
 ```
 ## Output
 
-![img]()
+<img width="1920" height="1080" alt="Screenshot 2026-02-01 212542" src="https://github.com/user-attachments/assets/8c446d36-89b8-4e94-b56e-8bcc94c7e812" />
 
 ## Result :
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
